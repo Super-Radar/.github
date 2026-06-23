@@ -14,49 +14,6 @@ SuperRadar 是由承泰科技发起并长期支持的开放毫米波感知技术
 
 
 
-## 我们关注什么
-
-
-* 毫米波雷达硬件与开发套件
-
-* ADC 原始数据采集与处理
-
-* 点云数据输出、可视化与分析
-
-* 雷达信号处理算法
-
-* 目标检测、跟踪与轨迹分析
-
-* 多传感器融合感知
-
-* 机器人、低空、交通、园区与工业场景应用
-
-* 高校教学、科研实验与社区共创
-
-
-
-## 开发者资源
-
-
-
-SuperRadar 将持续开放和完善以下资源：
-
-
-| 类型   | 内容                              |
-| ---- | ------------------------------- |
-| 硬件资源 | 毫米波雷达硬件、开发套件、接口说明               |
-| 软件工具 | RadarTools 上位机、驱动工具、采集工具        |
-| 示例代码 | Python 可视化、MATLAB ADC 处理、信号处理示例 |
-| 示例数据 | ADC 示例数据、点云示例数据、可视化示例数据         |
-| 技术文档 | 快速开始、工具使用、数据采集、标定、FAQ           |
-| 场景资料 | 机器人、低空、交通、园区、科研教学等场景说明          |
-| 社区任务 | Good First Issue、示例工程、文档共建、数据共建 |
-
-
-
-
-
-
 
 ## 推荐从这里开始
 
@@ -95,35 +52,6 @@ SuperRadar 将持续开放和完善以下资源：
 
 
 
-
-## 提交 Issue
-
-如果你在使用 SuperRadar 项目时遇到问题，欢迎提交 Issue。
-
-提交问题时，请尽量提供以下信息：
-
-* 硬件型号与版本
-
-* 使用的工具版本
-
-* 操作系统版本
-
-* 复现步骤
-
-* 报错截图或日志
-
-* 相关数据文件或配置文件
-
-* 你已经尝试过的排查方式
-
-
-
-
-
-
-
-
-
 ## 相关链接
 
 * 官网：https://superradar.cn
@@ -147,9 +75,7 @@ SuperRadar 组织下不同仓库可能采用不同许可证。请以各项目仓
 ## About SuperRadar
 
 
-
 SuperRadar is an open mmWave sensing community focused on radar hardware, ADC data, point cloud processing, signal processing, multi-sensor fusion, robotics, intelligent transportation, low-altitude sensing, industrial safety, and research applications.
-
 
 
 We welcome developers, researchers, universities, and industry partners to explore open sensing technologies together.
