@@ -28,15 +28,6 @@ SuperRadar 是由承泰科技发起并长期支持的开放毫米波感知技术
 
 
 
-##### 相关链接
-
-* 官网：https://superradar.cn
-
-* GitHub：https://github.com/Super-Radar
-
-
-
-
 
 ## License
 
